@@ -31,3 +31,7 @@ div {
   border-radius: 0;
   background-color: white;
 }
+
+.green {
+  background-color: chartreuse;
+}
