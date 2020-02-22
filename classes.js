@@ -30,3 +30,7 @@ function three () {
   three.classList.add('orange')
 }
 // CREATE FUNCTION makeVisible HERE
+function makeVisible () {
+  var four = document.getElementsByClassName('invisible')
+  four[0].classList.add('visible')
+}
